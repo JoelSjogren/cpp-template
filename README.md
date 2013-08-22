@@ -1,4 +1,21 @@
-cpp-template
-============
+## NAME ##
+app - short description
 
-for creating text-based applications
+## DESCRIPTION ##
+more details...
+
+## COMPILE & INSTALL ##
+Packages needed:
+
+ - scons
+    
+To compile, run:
+
+    $ scons
+
+To install, copy the generated executable to a directory in your $PATH. I suggest /usr/local/bin:
+
+    # cp app /usr/local/bin
+
+## OPTIONS ##
+See *HELP.md*.
